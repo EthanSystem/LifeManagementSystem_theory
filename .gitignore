@@ -3,6 +3,7 @@
 *.sync.ffs_db
 
 Resource/概念画板源文件/
+code/LifeManagementSystem/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,julia,r,matlab,visualstudiocode,visualstudio,pycharm,obsidian,latex,lyx,sublimetext,octave,spark,stata,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,python,julia,r,matlab,visualstudiocode,visualstudio,pycharm,obsidian,latex,lyx,sublimetext,octave,spark,stata,jupyternotebooks
@@ -1365,4 +1366,5 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,julia,r,matlab,visualstudiocode,visualstudio,pycharm,obsidian,latex,lyx,sublimetext,octave,spark,stata,jupyternotebooks
+
 
